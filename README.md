@@ -74,4 +74,4 @@ This project analyses **279,712 Airbnb listings across 10 global cities** to unc
 
 **Japdeep Singh**
 Former Data Analyst Intern — Analytics Career Connect
-[LinkedIn](https://www.linkedin.com/in/japdeep-singh-15713b325/) · [Portfolio Website]
+[LinkedIn](https://www.linkedin.com/in/japdeep-singh-15713b325/) · [Portfolio Website] (http://japdeep123.github.io/portfolio)
